@@ -88,9 +88,9 @@ news_api/
 
 
 # Технологии
-Python 3.12
-FastAPI
-PostgreSQL + SQLAlchemy
-Redis + fastapi-cache
-Alembic
-Docker / Docker Compose
+- Python 3.12
+- FastAPI
+- PostgreSQL + SQLAlchemy
+- Redis + fastapi-cache
+- Alembic
+- Docker / Docker Compose
